@@ -31,16 +31,16 @@ https://www.youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
 - Site do Curso em Video
 https://www.cursoemvideo.com/
 
-- Exercício 001:
-- Exercício 002:
-- Exercício 003:
-- Exercício 004:
-- Exercício 005:
-- Exercício 006:
-- Exercício 007:
-- Exercício 008:
-- Exercício 009:
-- Exercício 010:
+- Exercício 001: Criar um projeto no PyCharm.
+- Exercício 002: Criar um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+- Exercício 003: Criar um programa que leia dois números e mostre a soma entre eles.
+- Exercício 004: Criar um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
+- Exercício 005: Criar um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
+- Exercício 006: Criar um algoritmo que leia um número e mostre o seu dobro, triplo e raiz quadrada.
+- Exercício 007: Criar um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+- Exercício 008: Criar um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
+- Exercício 009: Criar um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
+- Exercício 010: Criar um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
 - Exercício 011:
 - Exercício 012:
 - Exercício 013:
